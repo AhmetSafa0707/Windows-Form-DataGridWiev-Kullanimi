@@ -1,0 +1,11 @@
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\bin\Debug\Windows Form-DataGridView Kullanımı.exe.config
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\bin\Debug\Windows Form-DataGridView Kullanımı.exe
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\bin\Debug\Windows Form-DataGridView Kullanımı.pdb
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\obj\Debug\Windows Form-DataGridView Kullanımı.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\obj\Debug\Windows Form-DataGridView Kullanımı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\obj\Debug\Windows_Form_DataGridView_Kullanımı.Form1.resources
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\obj\Debug\Windows_Form_DataGridView_Kullanımı.Properties.Resources.resources
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\obj\Debug\Windows Form-DataGridView Kullanımı.csproj.GenerateResource.cache
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\obj\Debug\Windows Form-DataGridView Kullanımı.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\obj\Debug\Windows Form-DataGridView Kullanımı.exe
+C:\Users\Ahmet\Desktop\c# dersleri\Windows Form-DataGridView Kullanımı\obj\Debug\Windows Form-DataGridView Kullanımı.pdb
